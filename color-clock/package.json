@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "The best package in the whole world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Elliot King",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
